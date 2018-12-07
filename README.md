@@ -1,5 +1,8 @@
 # Gauhar_vue
 
+下载运行时，请手动新建一个名为static的文件夹
+在static文件夹中新建一个文件：.gitkeep   （请注意，这是后缀名     此文件不需要名字，只需要后缀）
+
 > A Vue.js project
 
 ## Build Setup
