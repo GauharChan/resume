@@ -73,7 +73,9 @@
 
             <!-- top -->
             <div class="top animate" id="top" v-show="topBoll" @click="goTop">
-                <a href="#">top</a>
+                
+                  <img class="topImg" src="../img/top.png" alt="" srcset="">
+                
             </div>
             <!-- <h1 @click="addCount">我是新的内容{{count}}</h1> -->
         </div>
