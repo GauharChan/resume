@@ -206,14 +206,14 @@
 /* top */
 .top {
   width: 50px;
-  height: 50px;
+  height: 45px;
   border-radius: 25%;
   background-color: rgba(206, 137, 104, .8);
   text-align: center;
   line-height: 50px;
   position: fixed;
   right: 12%;
-  bottom: 16%;
+  bottom: 18%;
 }
 
 .top:hover {
@@ -222,7 +222,9 @@
   animation: swing 1s;
 }
 
-.top a {
-  text-decoration: none;
-  color: white;
+
+
+.topImg{
+  width: 45px;
+  height: 40px;
 }
